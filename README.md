@@ -5,7 +5,7 @@
 I'm an eletronic engineer. I code in C for microcontrollers such as ESP32, PIC, ARM LPC/STM and VHDL for FPGAs from Altera/Intel. I'm an enthusiast for learning new technologies. Losing hours of sleep while programming is a real hobby.
 
 A little more about me...
-- 🔭 I’m currently working on Broadcasting System at Linear Denki.
+- 🔭 I’m currently working on Broadcasting System at [Linear Denki](https://www.lineardenki.com.br/).
 - 🌱 I’m currently learning about NIOS-V.
 - 👯 My professional experiences are Digital TV (ISDB-Tb/ATSC 1.0) and embedded systems.
 - 💬 Ask me about Internet of Things, Digital TV, Economy and Stock Market.
