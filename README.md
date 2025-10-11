@@ -12,6 +12,11 @@ A little more about me...
 - ⚡ Fun fact: "Your habits will determine your future" by Jack Canfield (American author).
 - 📫 How to reach me:
 
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/amagalhaesdesigns) |  [<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="linkedin logo" width="24">](https://dascoisastech.wordpress.com/) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://br.linkedin.com/in/alexandre-magalh%C3%A3es-1919a68b) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mailto:alexandremagalhaes31@gmail.com)
+|---|---|---|---|
+ 
+<img src="https://komarev.com/ghpvc/?username=amagalhaesdesigns" alt="amagalhaesdesigns" />
+
 ---
 
 <div>
