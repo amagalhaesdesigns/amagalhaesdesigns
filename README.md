@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hello World !
 
-<!--
-**amagalhaesdesigns/amagalhaesdesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨 I'm Alexandre Magalhães from BRAZIL !!!
 
-Here are some ideas to get you started:
+I'm an eletronic engineer. I code in C for microcontrollers such as ESP32, PIC, ARM LPC/STM and VHDL for FPGAs from Altera/Intel. I'm an enthusiast for learning new technologies. Losing hours of sleep while programming is a real hobby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little more about me...
+- 🔭 I’m currently working on Broadcasting System at Linear Denki.
+- 🌱 I’m currently learning about NIOS-V.
+- 👯 My professional experiences are Digital TV (ISDB-Tb/ATSC 1.0) and embedded systems.
+- 💬 Ask me about Internet of Things, Digital TV, Economy and Stock Market.
+- ⚡ Fun fact: "Your habits will determine your future" by Jack Canfield (American author).
+- 📫 How to reach me:
+
+---
+
+<div>
+    <a href="https://github.com/amagalhaesdesigns">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amagalhaesdesigns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amagalhaesdesigns&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+
