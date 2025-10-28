@@ -1,22 +1,35 @@
-👋 Hello World !
+# 👋 Hello World!
 
-👨 I'm Alexandre Magalhães from BRAZIL !!!
+### 👨‍💻 About Me  
+I'm **Alexandre Magalhães** from **Brazil 🇧🇷** — an **Electronic Engineer** passionate about technology, coding, and innovation.  
 
-I'm an eletronic engineer. I code in C for microcontrollers such as ESP32, PIC, ARM LPC/STM and VHDL for FPGAs from Altera/Intel. I'm an enthusiast for learning new technologies. Losing hours of sleep while programming is a real hobby.
-
-A little more about me...
-- 🔭 I’m currently working on Broadcasting System at [Linear Denki](https://www.lineardenki.com.br/).
-- 🌱 I’m currently learning about NIOS-V.
-- 👯 My professional experiences are Digital TV (ISDB-Tb/ATSC 1.0) and embedded systems.
-- 💬 Ask me about Internet of Things, Digital TV, Economy and Stock Market.
-- ⚡ Fun fact: "Your habits will determine your future" by Jack Canfield (American author).
+I develop in **C** for microcontrollers such as **ESP32**, **PIC**, **ARM LPC/STM**, and write **VHDL** for **Altera/Intel FPGAs**.  
+I’m always eager to learn new technologies — and yes, losing a few hours of sleep while coding is part of the fun!
 
 ---
 
-<div>
-    <a href="https://github.com/amagalhaesdesigns">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amagalhaesdesigns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amagalhaesdesigns&layout=compact&langs_count=16&theme=dracula"/>
+### 🚀 What I’m Up To  
+- 🔭 Currently working in **Broadcasting Systems** at [Linear Denki](https://www.lineardenki.com.br/)  
+- 🌱 Learning about **NIOS-V** and FPGA-based embedded architectures  
+- 👯 Experienced in **Digital TV (ISDB-Tb / ATSC 1.0)** and **embedded systems**  
+- 💬 Ask me about **IoT**, **Digital TV**, **Economy**, or the **Stock Market**  
+- ⚡ Fun fact: *“Your habits will determine your future.” — Jack Canfield*  
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <a href="https://github.com/amagalhaesdesigns">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amagalhaesdesigns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amagalhaesdesigns&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
 </div>
 
+---
 
+### 🧠 Motto  
+> “Engineering is not just solving problems — it’s turning ideas into reality.”
+
+---
+
+⭐ **Thanks for visiting!** Feel free to explore my repositories and connect!
